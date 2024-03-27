@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "462769717751",
+    "project_id": "wallet-ine",
+    "storage_bucket": "wallet-ine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462769717751:android:d552ae89c8f657c7402ef2",
+        "android_client_info": {
+          "package_name": "com.example.simplelogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6_3NLmeelB1jOEpN3RPh8rlm73x1_Skc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462769717751:android:4cea1c1dd13e9362402ef2",
+        "android_client_info": {
+          "package_name": "mx.edu.uttt.dsicode.wallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6_3NLmeelB1jOEpN3RPh8rlm73x1_Skc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

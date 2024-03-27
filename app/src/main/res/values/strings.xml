@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SimpleLogin</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="curp">curp</string>
+    <string name="cardNumber">cardNumber</string>
+    <string name="expirationDate">expirationDate</string>
+    <string name="cvv">cvv</string>
+    <string name="balance">balance</string>
+    <string name="bank">bank</string>
+    <string name="address">address</string>
+</resources>
